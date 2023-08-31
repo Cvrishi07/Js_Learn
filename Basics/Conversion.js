@@ -28,3 +28,19 @@ console.log(valueOfNumber5)
 
 // 1 => true , 0 => false 
 // "" => false , "Rishi" => true
+
+// Operations 
+
+console.log(1+"2") ;   // 3
+console.log("1"+2) ;   // 3 
+console.log("1" + 2 + 3)  // 123
+console.log(1+2+"2")  //32
+console.log(1+"2"+"3")  //123
+
+console.log(true) ;
+console.log(+true) ;
+// console.log(true+)  //wil throw error 
+console.log(+"");
+
+let num1,num2,num3 
+num1 = num2 = num3 = (2+2) ;
